@@ -1,0 +1,44 @@
+{
+  "id": "ikun-pet",
+  "displayName": "鸡哥ikun",
+  "description": "A meme-style Codex basketball pet based on the user doll image.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

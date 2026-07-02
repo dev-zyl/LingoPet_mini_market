@@ -1,0 +1,44 @@
+{
+  "id": "aby",
+  "displayName": "Aby",
+  "description": "A tiny abyssal octopus-mermaid companion with purple-blue jelly shimmer and curious starry eyes.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "creature",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        360,
+        300
+      ]
+    },
+    "merit": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        300
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        180,
+        240
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "aemeath",
+  "displayName": "Aemeath",
+  "description": "A tiny pixel-art chibi fan pet inspired by Aemeath as a starlit singer.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 10,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 11,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

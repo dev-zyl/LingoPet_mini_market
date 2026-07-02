@@ -1,0 +1,8 @@
+{
+  "id": "smoke-kick",
+  "displayName": "Smoke Kick",
+  "description": "A calm black-suited martial chef with cigarette smoke and a controlled flame kick.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": null,
+  "version": "1.0.0"
+}

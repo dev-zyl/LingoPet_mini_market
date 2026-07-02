@@ -1,0 +1,44 @@
+{
+  "id": "kimlet-hover-clap",
+  "displayName": "Kimlet Hover Clap",
+  "description": "A chibi digital pet inspired by Kim Jong Un with a round face, high-fade hairstyle, dark buttoned suit, and a clapping hover animation.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "object",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chiang-kai-shek",
+  "displayName": "Chiang Kai-shek",
+  "description": "A compact Codex digital pet caricature inspired by Chiang Kai-shek, with a shaved head, neat dark mustache, stern brows, olive Zhongshan-style suit, and tiny formal posture.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

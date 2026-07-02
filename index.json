@@ -1,0 +1,1729 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-02T03:40:53.204Z",
+  "pets": [
+    {
+      "id": "--",
+      "displayName": "黑米",
+      "description": "一只可爱的深灰蓝色圆脸猫咪，金黄色圆眼，安静但有点认真。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 105,
+      "downloadCount": 0,
+      "previewUrl": "pets/--/spritesheet.webp",
+      "manifestUrl": "pets/--/pet.json",
+      "spritesheetUrl": "pets/--/spritesheet.webp"
+    },
+    {
+      "id": "-----",
+      "displayName": "蓝色小虎鲸",
+      "description": "灵感来自ds的蓝色小虎鲸",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 104,
+      "downloadCount": 0,
+      "previewUrl": "pets/-----/spritesheet.webp",
+      "manifestUrl": "pets/-----/pet.json",
+      "spritesheetUrl": "pets/-----/spritesheet.webp"
+    },
+    {
+      "id": "----zzz----",
+      "displayName": "假面骑士zzz灾厄形态",
+      "description": "跟我的灾厄大王说去吧！！！！",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 103,
+      "downloadCount": 0,
+      "previewUrl": "pets/----zzz----/spritesheet.webp",
+      "manifestUrl": "pets/----zzz----/pet.json",
+      "spritesheetUrl": "pets/----zzz----/spritesheet.webp"
+    },
+    {
+      "id": "0xgingi-water-bong",
+      "displayName": "Water Bong",
+      "description": "A tiny friendly water bong digital pet with a simple face and stubby feet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 102,
+      "downloadCount": 0,
+      "previewUrl": "pets/0xgingi-water-bong/spritesheet.webp",
+      "manifestUrl": "pets/0xgingi-water-bong/pet.json",
+      "spritesheetUrl": "pets/0xgingi-water-bong/spritesheet.webp"
+    },
+    {
+      "id": "1",
+      "displayName": "哈吉蜂",
+      "description": "Prototype-based Codex pet with wing flaps and keyboard actions.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 101,
+      "downloadCount": 0,
+      "previewUrl": "pets/1/spritesheet.webp",
+      "manifestUrl": "pets/1/pet.json",
+      "spritesheetUrl": "pets/1/spritesheet.webp"
+    },
+    {
+      "id": "3574745404-pet",
+      "displayName": "爱弥斯",
+      "description": "一只专为漂泊者设计的迷你像素风爱弥斯人物桌宠。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 100,
+      "downloadCount": 0,
+      "previewUrl": "pets/3574745404-pet/spritesheet.webp",
+      "manifestUrl": "pets/3574745404-pet/pet.json",
+      "spritesheetUrl": "pets/3574745404-pet/spritesheet.webp"
+    },
+    {
+      "id": "486",
+      "displayName": "486",
+      "description": "GBC",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 99,
+      "downloadCount": 0,
+      "previewUrl": "pets/486/spritesheet.webp",
+      "manifestUrl": "pets/486/pet.json",
+      "spritesheetUrl": "pets/486/spritesheet.webp"
+    },
+    {
+      "id": "a337869746-pet",
+      "displayName": "多宝",
+      "description": "A cute Schnauzer named Duobao.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 98,
+      "downloadCount": 0,
+      "previewUrl": "pets/a337869746-pet/spritesheet.webp",
+      "manifestUrl": "pets/a337869746-pet/pet.json",
+      "spritesheetUrl": "pets/a337869746-pet/spritesheet.webp"
+    },
+    {
+      "id": "abijoyfulgalaxy-fuloowa",
+      "displayName": "Fuloowa",
+      "description": "A cute gourd-themed Codex pet with a calabash sprout headpiece, flowing long hair, big expressive eyes, and a soft qipao-inspired look.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 97,
+      "downloadCount": 0,
+      "previewUrl": "pets/abijoyfulgalaxy-fuloowa/spritesheet.webp",
+      "manifestUrl": "pets/abijoyfulgalaxy-fuloowa/pet.json",
+      "spritesheetUrl": "pets/abijoyfulgalaxy-fuloowa/spritesheet.webp"
+    },
+    {
+      "id": "absol-puff",
+      "displayName": "Absol Puff",
+      "description": "A cute chibi disaster-prediction pet inspired by Absol, with fluffy white fur, dark blue scythe horn and tail, pink-red eyes, and rounded claws.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 96,
+      "downloadCount": 0,
+      "previewUrl": "pets/absol-puff/spritesheet.webp",
+      "manifestUrl": "pets/absol-puff/pet.json",
+      "spritesheetUrl": "pets/absol-puff/spritesheet.webp"
+    },
+    {
+      "id": "aby",
+      "displayName": "Aby",
+      "description": "A tiny abyssal octopus-mermaid companion with purple-blue jelly shimmer and curious starry eyes.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 95,
+      "downloadCount": 0,
+      "previewUrl": "pets/aby/spritesheet.webp",
+      "manifestUrl": "pets/aby/pet.json",
+      "spritesheetUrl": "pets/aby/spritesheet.webp"
+    },
+    {
+      "id": "aemeath",
+      "displayName": "Aemeath",
+      "description": "A tiny pixel-art chibi fan pet inspired by Aemeath as a starlit singer.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 94,
+      "downloadCount": 0,
+      "previewUrl": "pets/aemeath/spritesheet.webp",
+      "manifestUrl": "pets/aemeath/pet.json",
+      "spritesheetUrl": "pets/aemeath/spritesheet.webp"
+    },
+    {
+      "id": "aimisi",
+      "displayName": "爱弥斯",
+      "description": "《鸣潮》爱弥斯像素小人桌宠，完整翅膀清晰版，使用用户提供的 GIF 动图素材孵化。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 93,
+      "downloadCount": 0,
+      "previewUrl": "pets/aimisi/spritesheet.webp",
+      "manifestUrl": "pets/aimisi/pet.json",
+      "spritesheetUrl": "pets/aimisi/spritesheet.webp"
+    },
+    {
+      "id": "albedo-real-comic",
+      "displayName": "雅儿贝德",
+      "description": "A compact manga-quality realistic-comic desktop pet based on Albedo: black hair, ivory horns, golden eyes, white gown, black wing accents, and a calm haughty expression.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 92,
+      "downloadCount": 0,
+      "previewUrl": "pets/albedo-real-comic/spritesheet.webp",
+      "manifestUrl": "pets/albedo-real-comic/pet.json",
+      "spritesheetUrl": "pets/albedo-real-comic/spritesheet.webp"
+    },
+    {
+      "id": "anya",
+      "displayName": "阿尼亚",
+      "description": "A Codex-style digital pet version of Anya Forger from SPY x FAMILY.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 91,
+      "downloadCount": 0,
+      "previewUrl": "pets/anya/spritesheet.webp",
+      "manifestUrl": "pets/anya/pet.json",
+      "spritesheetUrl": "pets/anya/spritesheet.webp"
+    },
+    {
+      "id": "bananacat",
+      "displayName": "BananaCat",
+      "description": "The beloved meme icon: a tiny orange tabby cat in a banana suit, with big sad shiny eyes. This spritesheet includes walking and idle frames.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 90,
+      "downloadCount": 0,
+      "previewUrl": "pets/bananacat/spritesheet.webp",
+      "manifestUrl": "pets/bananacat/pet.json",
+      "spritesheetUrl": "pets/bananacat/spritesheet.webp"
+    },
+    {
+      "id": "basketball-chick",
+      "displayName": "篮球小鸡",
+      "description": "卡通篮球小鸡桌面宠物，会唱跳和打篮球。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 89,
+      "downloadCount": 0,
+      "previewUrl": "pets/basketball-chick/spritesheet.webp",
+      "manifestUrl": "pets/basketball-chick/pet.json",
+      "spritesheetUrl": "pets/basketball-chick/spritesheet.webp"
+    },
+    {
+      "id": "bocchi",
+      "displayName": "bocchi",
+      "description": "Bocchi The Rock! Hitori Gotoh",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 88,
+      "downloadCount": 0,
+      "previewUrl": "pets/bocchi/spritesheet.webp",
+      "manifestUrl": "pets/bocchi/pet.json",
+      "spritesheetUrl": "pets/bocchi/spritesheet.webp"
+    },
+    {
+      "id": "capoo",
+      "displayName": "Capoo",
+      "description": "A tiny blue bug-cat companion with rounded body, cat ears, three dark back stripes, little legs, and cheerful wiggles.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 87,
+      "downloadCount": 0,
+      "previewUrl": "pets/capoo/spritesheet.webp",
+      "manifestUrl": "pets/capoo/pet.json",
+      "spritesheetUrl": "pets/capoo/spritesheet.webp"
+    },
+    {
+      "id": "capy-2",
+      "displayName": "Capy",
+      "description": "A friendly capybara digital pet for Codex.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 86,
+      "downloadCount": 0,
+      "previewUrl": "pets/capy-2/spritesheet.webp",
+      "manifestUrl": "pets/capy-2/pet.json",
+      "spritesheetUrl": "pets/capy-2/spritesheet.webp"
+    },
+    {
+      "id": "capybaralulu",
+      "displayName": "CapybaraLuLu",
+      "description": "A cheerful round yellow capybara-like chibi pet with a large orange muzzle and a tiny fruit on its head.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 85,
+      "downloadCount": 0,
+      "previewUrl": "pets/capybaralulu/spritesheet.webp",
+      "manifestUrl": "pets/capybaralulu/pet.json",
+      "spritesheetUrl": "pets/capybaralulu/spritesheet.webp"
+    },
+    {
+      "id": "chiang-kai-shek",
+      "displayName": "Chiang Kai-shek",
+      "description": "A compact Codex digital pet caricature inspired by Chiang Kai-shek, with a shaved head, neat dark mustache, stern brows, olive Zhongshan-style suit, and tiny formal posture.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 84,
+      "downloadCount": 0,
+      "previewUrl": "pets/chiang-kai-shek/spritesheet.webp",
+      "manifestUrl": "pets/chiang-kai-shek/pet.json",
+      "spritesheetUrl": "pets/chiang-kai-shek/spritesheet.webp"
+    },
+    {
+      "id": "chispa",
+      "displayName": "Chispa",
+      "description": "A tiny rusty helper robot pet with binocular eyes, tank treads, and clamp arms.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 83,
+      "downloadCount": 0,
+      "previewUrl": "pets/chispa/spritesheet.webp",
+      "manifestUrl": "pets/chispa/pet.json",
+      "spritesheetUrl": "pets/chispa/spritesheet.webp"
+    },
+    {
+      "id": "cinnamoroll",
+      "displayName": "Cinnamoroll",
+      "description": "A tiny Cinnamoroll-inspired white puppy companion with long floppy ears and a curled tail for calm workspace days.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 82,
+      "downloadCount": 0,
+      "previewUrl": "pets/cinnamoroll/spritesheet.webp",
+      "manifestUrl": "pets/cinnamoroll/pet.json",
+      "spritesheetUrl": "pets/cinnamoroll/spritesheet.webp"
+    },
+    {
+      "id": "claude-crab",
+      "displayName": "Claude Crab",
+      "description": "A tiny orange blocky Claude Code mascot pet with black square eyes and four little legs.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 81,
+      "downloadCount": 0,
+      "previewUrl": "pets/claude-crab/spritesheet.webp",
+      "manifestUrl": "pets/claude-crab/pet.json",
+      "spritesheetUrl": "pets/claude-crab/spritesheet.webp"
+    },
+    {
+      "id": "clawd",
+      "displayName": "Clawd",
+      "description": "A tiny pixel Clawd companion made from your sticker GIFs.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 80,
+      "downloadCount": 0,
+      "previewUrl": "pets/clawd/spritesheet.webp",
+      "manifestUrl": "pets/clawd/pet.json",
+      "spritesheetUrl": "pets/clawd/spritesheet.webp"
+    },
+    {
+      "id": "codie",
+      "displayName": "Codie",
+      "description": "A tiny animated Codex pet inspired by Codie, Vociferous Codex: a brass-faced walking spellbook construct with one bright blue eye, curled tail, and spindly mechanical legs.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 79,
+      "downloadCount": 0,
+      "previewUrl": "pets/codie/spritesheet.webp",
+      "manifestUrl": "pets/codie/pet.json",
+      "spritesheetUrl": "pets/codie/spritesheet.webp"
+    },
+    {
+      "id": "conan",
+      "displayName": "Conan Edogawa",
+      "description": "A tiny kid-detective companion with glasses, bowtie, blazer, and a deduction lens-flash.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 78,
+      "downloadCount": 0,
+      "previewUrl": "pets/conan/spritesheet.webp",
+      "manifestUrl": "pets/conan/pet.json",
+      "spritesheetUrl": "pets/conan/spritesheet.webp"
+    },
+    {
+      "id": "daodun-dog",
+      "displayName": "刀盾狗",
+      "description": "A chubby dog-fur meme creature inspired by the Chinese '我咧个刀盾' / sword-and-shield dog meme, with a realistic Doge head, squat toad-like body silhouette, sword, and shield.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 77,
+      "downloadCount": 0,
+      "previewUrl": "pets/daodun-dog/spritesheet.webp",
+      "manifestUrl": "pets/daodun-dog/pet.json",
+      "spritesheetUrl": "pets/daodun-dog/spritesheet.webp"
+    },
+    {
+      "id": "deepfin",
+      "displayName": "Deepfin",
+      "description": "A friendly chibi whale-girl Codex digital pet with a smart AI assistant personality, Inspired by DeepSeek.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 76,
+      "downloadCount": 0,
+      "previewUrl": "pets/deepfin/spritesheet.webp",
+      "manifestUrl": "pets/deepfin/pet.json",
+      "spritesheetUrl": "pets/deepfin/spritesheet.webp"
+    },
+    {
+      "id": "diana",
+      "displayName": "Diana",
+      "description": "Happy pale doll-like sci-fi child pet in a futuristic cobalt survival coat.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 75,
+      "downloadCount": 0,
+      "previewUrl": "pets/diana/spritesheet.webp",
+      "manifestUrl": "pets/diana/pet.json",
+      "spritesheetUrl": "pets/diana/spritesheet.webp"
+    },
+    {
+      "id": "ella-wave",
+      "displayName": "Ella Wave",
+      "description": "A tiny Codex digital pet inspired by Ella, a curious black-and-white cat with chartreuse eyes, a pink nose, mask-like face patches, white chest, and a warm orange flank patch. Hover variant: uses the waving animation when Codex triggers hover jump.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 74,
+      "downloadCount": 0,
+      "previewUrl": "pets/ella-wave/spritesheet.webp",
+      "manifestUrl": "pets/ella-wave/pet.json",
+      "spritesheetUrl": "pets/ella-wave/spritesheet.webp"
+    },
+    {
+      "id": "emilia",
+      "displayName": "Emilia",
+      "description": "A silver-haired, purple-eyed half-elf chibi companion inspired by Emilia, with tiny spirit Puck joining her run.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 73,
+      "downloadCount": 0,
+      "previewUrl": "pets/emilia/spritesheet.webp",
+      "manifestUrl": "pets/emilia/pet.json",
+      "spritesheetUrl": "pets/emilia/spritesheet.webp"
+    },
+    {
+      "id": "endminguga",
+      "displayName": "GUGUGAGA",
+      "description": "A chibi penguin-suit desktop pet girl with black bob hair, blue-gray eyes, yellow beak hood, white belly, flippers, yellow feet, and a silver ring accessory.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 72,
+      "downloadCount": 0,
+      "previewUrl": "pets/endminguga/spritesheet.webp",
+      "manifestUrl": "pets/endminguga/pet.json",
+      "spritesheetUrl": "pets/endminguga/spritesheet.webp"
+    },
+    {
+      "id": "feibi",
+      "displayName": "菲比",
+      "description": "A tiny blonde chibi companion with a white wide hat, purple eyes, blue hair clip, blue neck ribbon, and a slightly smug sticker-expression personality.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 71,
+      "downloadCount": 0,
+      "previewUrl": "pets/feibi/spritesheet.webp",
+      "manifestUrl": "pets/feibi/pet.json",
+      "spritesheetUrl": "pets/feibi/spritesheet.webp"
+    },
+    {
+      "id": "firefly",
+      "displayName": "Firefly",
+      "description": "A tiny Codex digital pet version of 流萤 / Firefly, defaulting to a seated chibi pose.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 70,
+      "downloadCount": 0,
+      "previewUrl": "pets/firefly/spritesheet.webp",
+      "manifestUrl": "pets/firefly/pet.json",
+      "spritesheetUrl": "pets/firefly/spritesheet.webp"
+    },
+    {
+      "id": "furina",
+      "displayName": "furina芙宁娜",
+      "description": "A Furina-inspired blue-and-white court performer Codex Pet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 69,
+      "downloadCount": 0,
+      "previewUrl": "pets/furina/spritesheet.webp",
+      "manifestUrl": "pets/furina/pet.json",
+      "spritesheetUrl": "pets/furina/spritesheet.webp"
+    },
+    {
+      "id": "github-com-vinjn-daodun",
+      "displayName": "DaoDun",
+      "description": "A compact pixel-art meme warrior pet with a round dog-like body, a smug grin, a short sword, and a raised wooden shield.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 68,
+      "downloadCount": 0,
+      "previewUrl": "pets/github-com-vinjn-daodun/spritesheet.webp",
+      "manifestUrl": "pets/github-com-vinjn-daodun/pet.json",
+      "spritesheetUrl": "pets/github-com-vinjn-daodun/spritesheet.webp"
+    },
+    {
+      "id": "gpt-muse",
+      "displayName": "GPT-muse",
+      "description": "A tiny aqua-white Codex companion with silver hair and teal accents.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 67,
+      "downloadCount": 0,
+      "previewUrl": "pets/gpt-muse/spritesheet.webp",
+      "manifestUrl": "pets/gpt-muse/pet.json",
+      "spritesheetUrl": "pets/gpt-muse/spritesheet.webp"
+    },
+    {
+      "id": "guga-guga",
+      "displayName": "咕嘎咕嘎",
+      "description": "A Codex pet that uses the supplied 咕嘎咕嘎 reference image directly.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 66,
+      "downloadCount": 0,
+      "previewUrl": "pets/guga-guga/spritesheet.webp",
+      "manifestUrl": "pets/guga-guga/pet.json",
+      "spritesheetUrl": "pets/guga-guga/spritesheet.webp"
+    },
+    {
+      "id": "gugugaga",
+      "displayName": "咕咕嘎嘎",
+      "description": "咕咕嘎嘎: a tiny chibi desktop pet in a black penguin hoodie with a yellow beak, white belly, blue X hair clip, short black hair, and bright eyes.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 65,
+      "downloadCount": 0,
+      "previewUrl": "pets/gugugaga/spritesheet.webp",
+      "manifestUrl": "pets/gugugaga/pet.json",
+      "spritesheetUrl": "pets/gugugaga/spritesheet.webp"
+    },
+    {
+      "id": "hornet-silksong",
+      "displayName": "Hornet",
+      "description": "A chubby cute pixel-art silk needle heroine companion inspired by bug-knight adventure games.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 64,
+      "downloadCount": 0,
+      "previewUrl": "pets/hornet-silksong/spritesheet.webp",
+      "manifestUrl": "pets/hornet-silksong/pet.json",
+      "spritesheetUrl": "pets/hornet-silksong/spritesheet.webp"
+    },
+    {
+      "id": "hutao",
+      "displayName": "胡桃",
+      "description": "胡桃是《原神》中的五星火元素角色，使用长柄武器，是璃月「往生堂」第七十七代堂主。她性格古灵精怪、活泼俏皮，喜欢作诗和恶作剧，但对生死有着成熟豁达的理解。外形以黑红服饰、礼帽和梅花装饰为特色，神秘又可爱。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 63,
+      "downloadCount": 0,
+      "previewUrl": "pets/hutao/spritesheet.webp",
+      "manifestUrl": "pets/hutao/pet.json",
+      "spritesheetUrl": "pets/hutao/spritesheet.webp"
+    },
+    {
+      "id": "ikun",
+      "displayName": "IKUN",
+      "description": "A hoodie chick with hot path stage energy.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 62,
+      "downloadCount": 0,
+      "previewUrl": "pets/ikun/spritesheet.webp",
+      "manifestUrl": "pets/ikun/pet.json",
+      "spritesheetUrl": "pets/ikun/spritesheet.webp"
+    },
+    {
+      "id": "ikun-hoops",
+      "displayName": "IKUN Hoops",
+      "description": "A hoodie chick digital pet holding a basketball.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 61,
+      "downloadCount": 0,
+      "previewUrl": "pets/ikun-hoops/spritesheet.webp",
+      "manifestUrl": "pets/ikun-hoops/pet.json",
+      "spritesheetUrl": "pets/ikun-hoops/spritesheet.webp"
+    },
+    {
+      "id": "ikun-pet",
+      "displayName": "鸡哥ikun",
+      "description": "A meme-style Codex basketball pet based on the user doll image.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 60,
+      "downloadCount": 0,
+      "previewUrl": "pets/ikun-pet/spritesheet.webp",
+      "manifestUrl": "pets/ikun-pet/pet.json",
+      "spritesheetUrl": "pets/ikun-pet/spritesheet.webp"
+    },
+    {
+      "id": "ikunchick",
+      "displayName": "ikunchick",
+      "description": "A tiny basketball chick digital pet based closely on the provided IKun chick reference.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 59,
+      "downloadCount": 0,
+      "previewUrl": "pets/ikunchick/spritesheet.webp",
+      "manifestUrl": "pets/ikunchick/pet.json",
+      "spritesheetUrl": "pets/ikunchick/spritesheet.webp"
+    },
+    {
+      "id": "jielun",
+      "displayName": "杰伦",
+      "description": "年轻时期帅气酷酷的周杰伦风格桌面宠物。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 58,
+      "downloadCount": 0,
+      "previewUrl": "pets/jielun/spritesheet.webp",
+      "manifestUrl": "pets/jielun/pet.json",
+      "spritesheetUrl": "pets/jielun/spritesheet.webp"
+    },
+    {
+      "id": "jiyi",
+      "displayName": "吉伊",
+      "description": "A round white chibi bear with dark chocolate outlines, pink cheeks, tiny limbs, curled ears, and a small pink bear pouch.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 57,
+      "downloadCount": 0,
+      "previewUrl": "pets/jiyi/spritesheet.webp",
+      "manifestUrl": "pets/jiyi/pet.json",
+      "spritesheetUrl": "pets/jiyi/spritesheet.webp"
+    },
+    {
+      "id": "kaguya",
+      "displayName": "Kaguya",
+      "description": "A tiny chibi Cosmic Princess Kaguya companion with moon-rabbit details and bright festival robes.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 56,
+      "downloadCount": 0,
+      "previewUrl": "pets/kaguya/spritesheet.webp",
+      "manifestUrl": "pets/kaguya/pet.json",
+      "spritesheetUrl": "pets/kaguya/spritesheet.webp"
+    },
+    {
+      "id": "kid-goku-classic-actions",
+      "displayName": "Kid Goku Classic Actions",
+      "description": "A tiny Codex pet based on kid Son Goku with classic Dragon Ball action rows.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 55,
+      "downloadCount": 0,
+      "previewUrl": "pets/kid-goku-classic-actions/spritesheet.webp",
+      "manifestUrl": "pets/kid-goku-classic-actions/pet.json",
+      "spritesheetUrl": "pets/kid-goku-classic-actions/spritesheet.webp"
+    },
+    {
+      "id": "kimlet-hover-clap",
+      "displayName": "Kimlet Hover Clap",
+      "description": "A chibi digital pet inspired by Kim Jong Un with a round face, high-fade hairstyle, dark buttoned suit, and a clapping hover animation.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 54,
+      "downloadCount": 0,
+      "previewUrl": "pets/kimlet-hover-clap/spritesheet.webp",
+      "manifestUrl": "pets/kimlet-hover-clap/pet.json",
+      "spritesheetUrl": "pets/kimlet-hover-clap/spritesheet.webp"
+    },
+    {
+      "id": "konata",
+      "displayName": "Konata",
+      "description": "A chibi pixel pet of Izumi Konata with blue hair, green eyes, ahoge, and state-specific outfits.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 53,
+      "downloadCount": 0,
+      "previewUrl": "pets/konata/spritesheet.webp",
+      "manifestUrl": "pets/konata/pet.json",
+      "spritesheetUrl": "pets/konata/spritesheet.webp"
+    },
+    {
+      "id": "kun",
+      "displayName": "kun",
+      "description": "A compact Codex table pet dancer named kun with basketball dance poses.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 52,
+      "downloadCount": 0,
+      "previewUrl": "pets/kun/spritesheet.webp",
+      "manifestUrl": "pets/kun/pet.json",
+      "spritesheetUrl": "pets/kun/spritesheet.webp"
+    },
+    {
+      "id": "kun-chick",
+      "displayName": "Kun Chick",
+      "description": "A tiny pixel-style chick inspired by a basketball stage meme, carrying a basketball as a Codex pet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 51,
+      "downloadCount": 0,
+      "previewUrl": "pets/kun-chick/spritesheet.webp",
+      "manifestUrl": "pets/kun-chick/pet.json",
+      "spritesheetUrl": "pets/kun-chick/spritesheet.webp"
+    },
+    {
+      "id": "kunkun",
+      "displayName": "kunkun",
+      "description": "A playful Codex digital pet inspired by the reference character, with a small basketball companion and basketball-themed gestures.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 50,
+      "downloadCount": 0,
+      "previewUrl": "pets/kunkun/spritesheet.webp",
+      "manifestUrl": "pets/kunkun/pet.json",
+      "spritesheetUrl": "pets/kunkun/spritesheet.webp"
+    },
+    {
+      "id": "kunkun-pixel",
+      "displayName": "KunKun Pixel",
+      "description": "A pixel-art chibi KunKun chicken Codex pet with black hair, black outfit, red cheeks, round eyes, and a basketball.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 49,
+      "downloadCount": 0,
+      "previewUrl": "pets/kunkun-pixel/spritesheet.webp",
+      "manifestUrl": "pets/kunkun-pixel/pet.json",
+      "spritesheetUrl": "pets/kunkun-pixel/spritesheet.webp"
+    },
+    {
+      "id": "kunkundancing",
+      "displayName": "kunkundancing",
+      "description": "Pixel-art basketball chick with silver-gray hair, black hoodie, white pants, necklace, black hands and shoes, and basketball dance animations.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 48,
+      "downloadCount": 0,
+      "previewUrl": "pets/kunkundancing/spritesheet.webp",
+      "manifestUrl": "pets/kunkundancing/pet.json",
+      "spritesheetUrl": "pets/kunkundancing/spritesheet.webp"
+    },
+    {
+      "id": "kunpet",
+      "displayName": "KunPet",
+      "description": "A meme-style chibi pixel pet inspired by Cai Xukun internet reactions, idol stage energy, and basketball meme gestures.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 47,
+      "downloadCount": 0,
+      "previewUrl": "pets/kunpet/spritesheet.webp",
+      "manifestUrl": "pets/kunpet/pet.json",
+      "spritesheetUrl": "pets/kunpet/spritesheet.webp"
+    },
+    {
+      "id": "kurisu",
+      "displayName": "kurisu",
+      "description": "助手小姐可爱捏~",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 46,
+      "downloadCount": 0,
+      "previewUrl": "pets/kurisu/spritesheet.webp",
+      "manifestUrl": "pets/kurisu/pet.json",
+      "spritesheetUrl": "pets/kurisu/spritesheet.webp"
+    },
+    {
+      "id": "luffy",
+      "displayName": "Luffy",
+      "description": "A tiny straw-hat pirate captain pet with a red vest, blue shorts, and cheerful rubbery energy.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 45,
+      "downloadCount": 0,
+      "previewUrl": "pets/luffy/spritesheet.webp",
+      "manifestUrl": "pets/luffy/pet.json",
+      "spritesheetUrl": "pets/luffy/spritesheet.webp"
+    },
+    {
+      "id": "luffy-gear-5",
+      "displayName": "Luffy Gear 5",
+      "description": "A tiny chibi Codex pet version of Monkey D. Luffy in Gear 5, simplified into a readable animated sprite mascot.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 44,
+      "downloadCount": 0,
+      "previewUrl": "pets/luffy-gear-5/spritesheet.webp",
+      "manifestUrl": "pets/luffy-gear-5/pet.json",
+      "spritesheetUrl": "pets/luffy-gear-5/spritesheet.webp"
+    },
+    {
+      "id": "luluka-moria",
+      "displayName": "Luluka",
+      "description": "A chibi Cure Arcana Shadow desktop pet based on Luluka Moria, with blonde hair, pink ombre, red-purple eyes, a black rabbit-ear bow, lavender veil, and black-gold magical outfit.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 43,
+      "downloadCount": 0,
+      "previewUrl": "pets/luluka-moria/spritesheet.webp",
+      "manifestUrl": "pets/luluka-moria/pet.json",
+      "spritesheetUrl": "pets/luluka-moria/spritesheet.webp"
+    },
+    {
+      "id": "lumina-v2",
+      "displayName": "ルミナ v2.0",
+      "description": "白い衣装のルミナと相棒ドローンを一緒にしたCodexペット。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 42,
+      "downloadCount": 0,
+      "previewUrl": "pets/lumina-v2/spritesheet.webp",
+      "manifestUrl": "pets/lumina-v2/pet.json",
+      "spritesheetUrl": "pets/lumina-v2/spritesheet.webp"
+    },
+    {
+      "id": "miaodex",
+      "displayName": "MiaoDex",
+      "description": "A tiny gray-and-white kitten Codex companion with oversized glossy eyes, a pink nose, and one paw raised.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 41,
+      "downloadCount": 0,
+      "previewUrl": "pets/miaodex/spritesheet.webp",
+      "manifestUrl": "pets/miaodex/pet.json",
+      "spritesheetUrl": "pets/miaodex/spritesheet.webp"
+    },
+    {
+      "id": "miku",
+      "displayName": "Miku",
+      "description": "based on hatsune miku.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 40,
+      "downloadCount": 0,
+      "previewUrl": "pets/miku/spritesheet.webp",
+      "manifestUrl": "pets/miku/pet.json",
+      "spritesheetUrl": "pets/miku/spritesheet.webp"
+    },
+    {
+      "id": "monthly-salary-cat",
+      "displayName": "Monthly salary cat（月薪猫）",
+      "description": "A 1:1 restored animated pet version of the uploaded white-and-brown teary character, named Monthly salary cat（月薪猫）.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 39,
+      "downloadCount": 0,
+      "previewUrl": "pets/monthly-salary-cat/spritesheet.webp",
+      "manifestUrl": "pets/monthly-salary-cat/pet.json",
+      "spritesheetUrl": "pets/monthly-salary-cat/spritesheet.webp"
+    },
+    {
+      "id": "moyunailong",
+      "displayName": "摸鱼奶龙",
+      "description": "A small yellow chibi dragon who is happily slacking off by hugging a blue fish.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 38,
+      "downloadCount": 0,
+      "previewUrl": "pets/moyunailong/spritesheet.webp",
+      "manifestUrl": "pets/moyunailong/pet.json",
+      "spritesheetUrl": "pets/moyunailong/spritesheet.webp"
+    },
+    {
+      "id": "nahida",
+      "displayName": "纳西妲",
+      "description": "A compact Codex digital pet inspired by Nahida, the Dendro archon from Genshin Impact.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 37,
+      "downloadCount": 0,
+      "previewUrl": "pets/nahida/spritesheet.webp",
+      "manifestUrl": "pets/nahida/pet.json",
+      "spritesheetUrl": "pets/nahida/spritesheet.webp"
+    },
+    {
+      "id": "nailong",
+      "displayName": "Nailong",
+      "description": "Nailong, a laughing yellow creature.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 36,
+      "downloadCount": 0,
+      "previewUrl": "pets/nailong/spritesheet.webp",
+      "manifestUrl": "pets/nailong/pet.json",
+      "spritesheetUrl": "pets/nailong/spritesheet.webp"
+    },
+    {
+      "id": "nezukocoder",
+      "displayName": "NezukoCoder",
+      "description": "A chibi Nezuko-inspired coding companion typing on a laptop with a simple OpenAI emblem.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 35,
+      "downloadCount": 0,
+      "previewUrl": "pets/nezukocoder/spritesheet.webp",
+      "manifestUrl": "pets/nezukocoder/pet.json",
+      "spritesheetUrl": "pets/nezukocoder/spritesheet.webp"
+    },
+    {
+      "id": "nier-2b",
+      "displayName": "2B",
+      "description": "A compact Codex pet version of NieR:Automata 2B with white bob hair, black blindfold, black YoRHa combat dress, and a hovering Pod companion.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 34,
+      "downloadCount": 0,
+      "previewUrl": "pets/nier-2b/spritesheet.webp",
+      "manifestUrl": "pets/nier-2b/pet.json",
+      "spritesheetUrl": "pets/nier-2b/spritesheet.webp"
+    },
+    {
+      "id": "pet-mutsumi",
+      "displayName": "Mutsumi",
+      "description": "A quiet chibi digital pet inspired by Wakaba Mutsumi, with pale green hair, sleepy gold eyes, navy school uniform, and a tiny cucumber charm.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 33,
+      "downloadCount": 0,
+      "previewUrl": "pets/pet-mutsumi/spritesheet.webp",
+      "manifestUrl": "pets/pet-mutsumi/pet.json",
+      "spritesheetUrl": "pets/pet-mutsumi/spritesheet.webp"
+    },
+    {
+      "id": "pet-sakiko",
+      "displayName": "Sakiko",
+      "description": "A tiny chibi digital pet inspired by Sakiko Togawa: elegant, restrained, blue-silver hair, gold eyes, black ribbon ties, gray school blazer and green plaid skirt.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 32,
+      "downloadCount": 0,
+      "previewUrl": "pets/pet-sakiko/spritesheet.webp",
+      "manifestUrl": "pets/pet-sakiko/pet.json",
+      "spritesheetUrl": "pets/pet-sakiko/spritesheet.webp"
+    },
+    {
+      "id": "pet-soyo",
+      "displayName": "Soyo",
+      "description": "A tiny chibi digital pet inspired by Nagasaki Soyo, with soft chestnut hair, blue-gray eyes, a deep teal school uniform, and a gentle poised expression.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 31,
+      "downloadCount": 0,
+      "previewUrl": "pets/pet-soyo/spritesheet.webp",
+      "manifestUrl": "pets/pet-soyo/pet.json",
+      "spritesheetUrl": "pets/pet-soyo/spritesheet.webp"
+    },
+    {
+      "id": "prince-run",
+      "displayName": "Prince Run",
+      "description": "**Prince Run**, also known as **润公子**, is a professional programmer who has refined himself into a living **Skill**.\n\nHe turns code, logic, and experience into power, constantly upgrading himself through every project and challenge. Focused, reliable, and always evolving, Prince Run keeps running on the path of technology.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 30,
+      "downloadCount": 0,
+      "previewUrl": "pets/prince-run/spritesheet.webp",
+      "manifestUrl": "pets/prince-run/pet.json",
+      "spritesheetUrl": "pets/prince-run/spritesheet.webp"
+    },
+    {
+      "id": "qq",
+      "displayName": "QQ",
+      "description": "A custom Codex companion.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 29,
+      "downloadCount": 0,
+      "previewUrl": "pets/qq/spritesheet.webp",
+      "manifestUrl": "pets/qq/pet.json",
+      "spritesheetUrl": "pets/qq/spritesheet.webp"
+    },
+    {
+      "id": "reg",
+      "displayName": "Reg",
+      "description": "A small brave boy-like robot delver inspired by Reg from Made in Abyss, curious and protective.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 28,
+      "downloadCount": 0,
+      "previewUrl": "pets/reg/spritesheet.webp",
+      "manifestUrl": "pets/reg/pet.json",
+      "spritesheetUrl": "pets/reg/spritesheet.webp"
+    },
+    {
+      "id": "rei",
+      "displayName": "Rei",
+      "description": "A quiet blue-haired Codex digital pet inspired by Rei Ayanami from Evangelion.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 27,
+      "downloadCount": 0,
+      "previewUrl": "pets/rei/spritesheet.webp",
+      "manifestUrl": "pets/rei/pet.json",
+      "spritesheetUrl": "pets/rei/spritesheet.webp"
+    },
+    {
+      "id": "ricklet",
+      "displayName": "Ricklet",
+      "description": "A tiny chaotic scientist companion inspired by Rick Sanchez.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 26,
+      "downloadCount": 0,
+      "previewUrl": "pets/ricklet/spritesheet.webp",
+      "manifestUrl": "pets/ricklet/pet.json",
+      "spritesheetUrl": "pets/ricklet/spritesheet.webp"
+    },
+    {
+      "id": "rolling",
+      "displayName": "Rolling",
+      "description": "A tiny pixel-art white travel puppy pet with a blue scarf, golden bell, fluffy tail, and curious spirit, always ready to guide users toward their next trip.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 25,
+      "downloadCount": 0,
+      "previewUrl": "pets/rolling/spritesheet.webp",
+      "manifestUrl": "pets/rolling/pet.json",
+      "spritesheetUrl": "pets/rolling/spritesheet.webp"
+    },
+    {
+      "id": "ruixing",
+      "displayName": "Ruixing Lion 瑞星小狮子Kaka",
+      "description": "A custom Codex companion.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 24,
+      "downloadCount": 0,
+      "previewUrl": "pets/ruixing/spritesheet.webp",
+      "manifestUrl": "pets/ruixing/pet.json",
+      "spritesheetUrl": "pets/ruixing/spritesheet.webp"
+    },
+    {
+      "id": "rx-78-2-gundam",
+      "displayName": "RX-78-2 Gundam",
+      "description": "A compact Codex pet version of the classic white, blue, red, and yellow RX-78-2 style mecha with V-fin helmet, yellow eyes, shoulder cannons, red feet, and a handheld beam rifle.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 23,
+      "downloadCount": 0,
+      "previewUrl": "pets/rx-78-2-gundam/spritesheet.webp",
+      "manifestUrl": "pets/rx-78-2-gundam/pet.json",
+      "spritesheetUrl": "pets/rx-78-2-gundam/spritesheet.webp"
+    },
+    {
+      "id": "sakuraba-ema",
+      "displayName": "桜羽 エマ",
+      "description": "白い髪と桜色の瞳、黒いベレー帽と桜飾りをまとった小さなデジタルペットです。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 22,
+      "downloadCount": 0,
+      "previewUrl": "pets/sakuraba-ema/spritesheet.webp",
+      "manifestUrl": "pets/sakuraba-ema/pet.json",
+      "spritesheetUrl": "pets/sakuraba-ema/spritesheet.webp"
+    },
+    {
+      "id": "salty-clerk",
+      "displayName": "Salty Clerk",
+      "description": "A tired office-worker fish pet for Codex, gloomy and cute with a folder and office clothes.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 21,
+      "downloadCount": 0,
+      "previewUrl": "pets/salty-clerk/spritesheet.webp",
+      "manifestUrl": "pets/salty-clerk/pet.json",
+      "spritesheetUrl": "pets/salty-clerk/spritesheet.webp"
+    },
+    {
+      "id": "serious-cat",
+      "displayName": "Serious Cat",
+      "description": "A cute black cat with green eyes and a serious attitude.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 20,
+      "downloadCount": 0,
+      "previewUrl": "pets/serious-cat/spritesheet.webp",
+      "manifestUrl": "pets/serious-cat/pet.json",
+      "spritesheetUrl": "pets/serious-cat/spritesheet.webp"
+    },
+    {
+      "id": "shirly",
+      "displayName": "shirly",
+      "description": "A hyper-realistic cyber girlfriend featuring long dark hair, a white fitted top, and a gray pleated skirt. Dedicated to the devs burning the midnight oil during the May Day holiday.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 19,
+      "downloadCount": 0,
+      "previewUrl": "pets/shirly/spritesheet.webp",
+      "manifestUrl": "pets/shirly/pet.json",
+      "spritesheetUrl": "pets/shirly/spritesheet.webp"
+    },
+    {
+      "id": "shogun-dango",
+      "displayName": "将军团子",
+      "description": "以《原神》雷电将军／雷电影（Raiden Shogun / Raiden Ei / 雷電将軍 / 雷電影）设计元素为基础的可爱Q版紫色电系小宠物。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 18,
+      "downloadCount": 0,
+      "previewUrl": "pets/shogun-dango/spritesheet.webp",
+      "manifestUrl": "pets/shogun-dango/pet.json",
+      "spritesheetUrl": "pets/shogun-dango/spritesheet.webp"
+    },
+    {
+      "id": "smoke-kick",
+      "displayName": "Smoke Kick",
+      "description": "A calm black-suited martial chef with cigarette smoke and a controlled flame kick.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 17,
+      "downloadCount": 0,
+      "previewUrl": "pets/smoke-kick/spritesheet.webp",
+      "manifestUrl": "pets/smoke-kick/pet.json",
+      "spritesheetUrl": "pets/smoke-kick/spritesheet.webp"
+    },
+    {
+      "id": "starjotaro",
+      "displayName": "StarJotaro",
+      "description": "A stand-focused anime-style coding companion inspired by Jotaro Kujo and Star Platinum, simplified into a dramatic Codex digital pet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 16,
+      "downloadCount": 0,
+      "previewUrl": "pets/starjotaro/spritesheet.webp",
+      "manifestUrl": "pets/starjotaro/pet.json",
+      "spritesheetUrl": "pets/starjotaro/spritesheet.webp"
+    },
+    {
+      "id": "stlulu",
+      "displayName": "lulu",
+      "description": "A small cheerful yellow-orange anime-style mascot pet with a round head, big eyes, a tiny fruit-like tuft on top, and orange shorts.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 15,
+      "downloadCount": 0,
+      "previewUrl": "pets/stlulu/spritesheet.webp",
+      "manifestUrl": "pets/stlulu/pet.json",
+      "spritesheetUrl": "pets/stlulu/spritesheet.webp"
+    },
+    {
+      "id": "tabbit",
+      "displayName": "哆啦a梦",
+      "description": "A cheerful blue-and-white cat-like robot pet inspired by the reference image.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 14,
+      "downloadCount": 0,
+      "previewUrl": "pets/tabbit/spritesheet.webp",
+      "manifestUrl": "pets/tabbit/pet.json",
+      "spritesheetUrl": "pets/tabbit/spritesheet.webp"
+    },
+    {
+      "id": "taffy",
+      "displayName": "Taffy",
+      "description": "A tiny pixel chibi aviator girl pet with pink hair, round brass goggles with heart lenses, and a waist charm matching the plush face from the second reference.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 13,
+      "downloadCount": 0,
+      "previewUrl": "pets/taffy/spritesheet.webp",
+      "manifestUrl": "pets/taffy/pet.json",
+      "spritesheetUrl": "pets/taffy/spritesheet.webp"
+    },
+    {
+      "id": "teto",
+      "displayName": "Teto",
+      "description": "A chibi red-twin-drill virtual idol styled as a Codex digital pet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "person",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 12,
+      "downloadCount": 0,
+      "previewUrl": "pets/teto/spritesheet.webp",
+      "manifestUrl": "pets/teto/pet.json",
+      "spritesheetUrl": "pets/teto/spritesheet.webp"
+    },
+    {
+      "id": "teto-pet",
+      "displayName": "Teto-pet",
+      "description": "Tiny chibi Kasane Teto desktop pet with red twin-drill pigtails and classic teal-red outfit.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 11,
+      "downloadCount": 0,
+      "previewUrl": "pets/teto-pet/spritesheet.webp",
+      "manifestUrl": "pets/teto-pet/pet.json",
+      "spritesheetUrl": "pets/teto-pet/spritesheet.webp"
+    },
+    {
+      "id": "the-knight",
+      "displayName": "The Knight",
+      "description": "A tiny pixel-art void knight with a white horned mask, black oval eyes, dark cloak, and small nail blade.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 10,
+      "downloadCount": 0,
+      "previewUrl": "pets/the-knight/spritesheet.webp",
+      "manifestUrl": "pets/the-knight/pet.json",
+      "spritesheetUrl": "pets/the-knight/spritesheet.webp"
+    },
+    {
+      "id": "trump",
+      "displayName": "Trump",
+      "description": "A small smooth-edged digital pet caricature inspired by Donald Trump.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 9,
+      "downloadCount": 0,
+      "previewUrl": "pets/trump/spritesheet.webp",
+      "manifestUrl": "pets/trump/pet.json",
+      "spritesheetUrl": "pets/trump/spritesheet.webp"
+    },
+    {
+      "id": "trumpet",
+      "displayName": "Trumpet",
+      "description": "A tiny pixel-art Codex pet caricature inspired by Donald Trump, with swept blond hair, navy suit, red tie, and exaggerated confident expression.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 8,
+      "downloadCount": 0,
+      "previewUrl": "pets/trumpet/spritesheet.webp",
+      "manifestUrl": "pets/trumpet/pet.json",
+      "spritesheetUrl": "pets/trumpet/spritesheet.webp"
+    },
+    {
+      "id": "usagi",
+      "displayName": "Usagi",
+      "description": "A round cream bunny Codex pet with long upright ears, blush cheeks, tiny paws, and a cute catlike mouth.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "creature",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 7,
+      "downloadCount": 0,
+      "previewUrl": "pets/usagi/spritesheet.webp",
+      "manifestUrl": "pets/usagi/pet.json",
+      "spritesheetUrl": "pets/usagi/spritesheet.webp"
+    },
+    {
+      "id": "usagi-crawl",
+      "displayName": "Usagi Crawl",
+      "description": "A tiny Usagi-inspired Codex companion crawling along the ground.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 6,
+      "downloadCount": 0,
+      "previewUrl": "pets/usagi-crawl/spritesheet.webp",
+      "manifestUrl": "pets/usagi-crawl/pet.json",
+      "spritesheetUrl": "pets/usagi-crawl/spritesheet.webp"
+    },
+    {
+      "id": "xiaoba",
+      "displayName": "小八",
+      "description": "Chiikawa-style Hachiware-inspired Codex pet with blue ear cap, white rounded body, blush cheeks, tiny tail, and cheerful expression.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 5,
+      "downloadCount": 0,
+      "previewUrl": "pets/xiaoba/spritesheet.webp",
+      "manifestUrl": "pets/xiaoba/pet.json",
+      "spritesheetUrl": "pets/xiaoba/spritesheet.webp"
+    },
+    {
+      "id": "xiaoxin",
+      "displayName": "Crayon Shin-chan",
+      "description": "Nohara Shin-chan, reporting for duty!",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 4,
+      "downloadCount": 0,
+      "previewUrl": "pets/xiaoxin/spritesheet.webp",
+      "manifestUrl": "pets/xiaoxin/pet.json",
+      "spritesheetUrl": "pets/xiaoxin/spritesheet.webp"
+    },
+    {
+      "id": "xilian",
+      "displayName": "昔涟",
+      "description": "来自《崩坏：星穹铁道》的昔涟，承载「往昔的涟漪」之名的冰属性记忆命途少女；她温柔、梦幻而坚定，像守护记忆种子的黄金裔，引导往昔之花在明日绽放。",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "object",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 3,
+      "downloadCount": 0,
+      "previewUrl": "pets/xilian/spritesheet.webp",
+      "manifestUrl": "pets/xilian/pet.json",
+      "spritesheetUrl": "pets/xilian/spritesheet.webp"
+    },
+    {
+      "id": "yanami-anna",
+      "displayName": "Yanami Anna",
+      "description": "八奈见杏菜 / Yanami Anna, a cheerful chibi schoolgirl pet with deep blue medium-length hair, ahoge, big blue eyes, wink-smile energy, white short-sleeve shirt, blue and yellow bow accents, and a pale pleated skirt.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 2,
+      "downloadCount": 0,
+      "previewUrl": "pets/yanami-anna/spritesheet.webp",
+      "manifestUrl": "pets/yanami-anna/pet.json",
+      "spritesheetUrl": "pets/yanami-anna/spritesheet.webp"
+    },
+    {
+      "id": "yi-bu",
+      "displayName": "YiBu",
+      "description": "YiBu built from the user's local YierBubu GIF sticker set.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 1,
+      "downloadCount": 0,
+      "previewUrl": "pets/yi-bu/spritesheet.webp",
+      "manifestUrl": "pets/yi-bu/pet.json",
+      "spritesheetUrl": "pets/yi-bu/spritesheet.webp"
+    }
+  ]
+}

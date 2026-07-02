@@ -1,0 +1,44 @@
+{
+  "id": "usagi",
+  "displayName": "Usagi",
+  "description": "A round cream bunny Codex pet with long upright ears, blush cheeks, tiny paws, and a cute catlike mouth.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "creature",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 10,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 11,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

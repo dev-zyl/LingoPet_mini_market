@@ -1,0 +1,44 @@
+{
+  "id": "jiyi",
+  "displayName": "吉伊",
+  "description": "A round white chibi bear with dark chocolate outlines, pink cheeks, tiny limbs, curled ears, and a small pink bear pouch.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": null,
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

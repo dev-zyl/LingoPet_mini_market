@@ -1,0 +1,20 @@
+{
+  "id": "kid-goku-classic-actions",
+  "displayName": "Kid Goku Classic Actions",
+  "description": "A tiny Codex pet based on kid Son Goku with classic Dragon Ball action rows.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person",
+  "version": "1.0.0",
+  "animations": {
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    }
+  }
+}

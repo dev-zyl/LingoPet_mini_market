@@ -1,0 +1,44 @@
+{
+  "id": "aimisi",
+  "displayName": "爱弥斯",
+  "description": "《鸣潮》爱弥斯像素小人桌宠，完整翅膀清晰版，使用用户提供的 GIF 动图素材孵化。",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": null,
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

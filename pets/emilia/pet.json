@@ -1,0 +1,44 @@
+{
+  "id": "emilia",
+  "displayName": "Emilia",
+  "description": "A silver-haired, purple-eyed half-elf chibi companion inspired by Emilia, with tiny spirit Puck joining her run.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kunkun-pixel",
+  "displayName": "KunKun Pixel",
+  "description": "A pixel-art chibi KunKun chicken Codex pet with black hair, black outfit, red cheeks, round eyes, and a basketball.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": null,
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 9,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 10,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        150
+      ]
+    },
+    "music": {
+      "row": 11,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

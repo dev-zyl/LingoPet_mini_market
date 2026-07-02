@@ -1,0 +1,47 @@
+{
+  "id": "monthly-salary-cat",
+  "displayName": "Monthly salary cat（月薪猫）",
+  "description": "A 1:1 restored animated pet version of the uploaded white-and-brown teary character, named Monthly salary cat（月薪猫）.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 9,
+      "frames": 6,
+      "frameDurations": [
+        300,
+        300,
+        360,
+        300,
+        300,
+        300
+      ]
+    },
+    "merit": {
+      "row": 11,
+      "frames": 8,
+      "frameDurations": [
+        125,
+        125,
+        125,
+        125,
+        125,
+        125,
+        125,
+        125
+      ]
+    },
+    "music": {
+      "row": 10,
+      "frames": 5,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140
+      ]
+    }
+  }
+}

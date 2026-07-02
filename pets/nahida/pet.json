@@ -1,0 +1,44 @@
+{
+  "id": "nahida",
+  "displayName": "纳西妲",
+  "description": "A compact Codex digital pet inspired by Nahida, the Dendro archon from Genshin Impact.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "object",
+  "version": "1.0.0",
+  "animations": {
+    "focus": {
+      "row": 11,
+      "frames": 4,
+      "frameDurations": [
+        300,
+        300,
+        360,
+        300
+      ]
+    },
+    "merit": {
+      "row": 10,
+      "frames": 4,
+      "frameDurations": [
+        150,
+        150,
+        150,
+        300
+      ]
+    },
+    "music": {
+      "row": 9,
+      "frames": 8,
+      "frameDurations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        180,
+        240
+      ]
+    }
+  }
+}
