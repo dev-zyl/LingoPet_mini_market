@@ -1100,6 +1100,23 @@
       "spritesheetUrl": "pets/monthly-salary-cat/spritesheet.webp"
     },
     {
+      "id": "yuexinmiao",
+      "displayName": "月薪喵",
+      "description": "A small white office cat mascot based on the provided 月薪喵 reference images, adapted as a Codex pet.",
+      "author": "LingoPet Community",
+      "version": "1.0.0",
+      "kind": "animal",
+      "tags": [
+        "desktop-pet"
+      ],
+      "updatedAt": "2026-07-02",
+      "order": 999,
+      "downloadCount": 0,
+      "previewUrl": "pets/yuexinmiao/spritesheet.webp",
+      "manifestUrl": "pets/yuexinmiao/pet.json",
+      "spritesheetUrl": "pets/yuexinmiao/spritesheet.webp"
+    },
+    {
       "id": "moyunailong",
       "displayName": "摸鱼奶龙",
       "description": "A small yellow chibi dragon who is happily slacking off by hugging a blue fish.",
