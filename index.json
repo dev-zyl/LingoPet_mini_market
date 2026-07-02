@@ -1093,7 +1093,7 @@
         "desktop-pet"
       ],
       "updatedAt": "2026-07-02",
-      "order": 39,
+      "order": 999,
       "downloadCount": 0,
       "previewUrl": "pets/monthly-salary-cat/spritesheet.webp",
       "manifestUrl": "pets/monthly-salary-cat/pet.json",
@@ -1537,7 +1537,7 @@
         "desktop-pet"
       ],
       "updatedAt": "2026-07-02",
-      "order": 12,
+      "order": 999,
       "downloadCount": 0,
       "previewUrl": "pets/teto/spritesheet.webp",
       "manifestUrl": "pets/teto/pet.json",
@@ -1553,7 +1553,7 @@
         "desktop-pet"
       ],
       "updatedAt": "2026-07-02",
-      "order": 11,
+      "order": 999,
       "downloadCount": 0,
       "previewUrl": "pets/teto-pet/spritesheet.webp",
       "manifestUrl": "pets/teto-pet/pet.json",
